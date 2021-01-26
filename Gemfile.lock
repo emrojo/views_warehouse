@@ -1,5 +1,7 @@
-PATH
-  remote: /Users/emr/projects/views_schema
+GIT
+  remote: https://github.com/emrojo/views_schema.git
+  revision: 1dd0c7d5ba0aaa748ed6e6c0c205e4e6f2ed20ee
+  branch: main
   specs:
     views_schema (1.0.0)
 

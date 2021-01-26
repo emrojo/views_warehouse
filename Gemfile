@@ -22,7 +22,7 @@ gem 'bundler', '>= 1.3.0'
 gem 'railties', '~> 6.0.3'
 # # RAILS DEPENDENCIES
 
-gem 'views_schema', path: '/Users/emr/projects/views_schema'
+gem 'views_schema', github: 'emrojo/views_schema', branch: 'main'
 
 
 group :test, :development do
